@@ -3,7 +3,9 @@
 Cargo.lock
 bin/
 pkg/
-wasm-pack.log
 worker/
 node_modules/
 .cargo-ok
+serverless.yml
+wrangler.toml
+*.log
